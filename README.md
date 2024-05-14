@@ -5,6 +5,12 @@ Hello, my name is Fletcher! I am local to Nashville and am here to develop my sk
 - 🏢 Currently working in a managment role while I am attending NSS 
 - 🔍 In my free time you can find me with my family, playing baseball, or even playing video games with my friends!
 
-# Current code stack and knowledge includes
+<h2>Current Code Stack Includes</h2>
 
-react logo javascript logo  html5 logo  css3 logo bootstrap logo  discord logo  figma logo  firebase logo  github logo  nextjs logo  postman logo  vscode logo  netlify logo
+<div> 
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" />
+    <img width="12" />
+  <img src="https://thumbnail.imgbin.com/16/5/22/imgbin-html-world-wide-web-consortium-world-wide-web-H1tsfjhNjr5AM4eGecdgji0hW_t.jpg" />
+     <img width="12" />
+
+</div>
