@@ -1,4 +1,4 @@
-# About me
+<h2>About Me</h2>
 
 Hello, my name is Fletcher! I am local to Nashville and am here to develop my skills to shift my career to new hights! 
 
@@ -8,4 +8,3 @@ Hello, my name is Fletcher! I am local to Nashville and am here to develop my sk
 # Current code stack and knowledge includes
 
 react logo javascript logo  html5 logo  css3 logo bootstrap logo  discord logo  figma logo  firebase logo  github logo  nextjs logo  postman logo  vscode logo  netlify logo
-![683-6834215_html-css-js-icon-hd-png-download](https://github.com/FletcherJMoore/fletchermoore/assets/154636617/3f0ff1eb-5d40-4d90-a6ab-2b004b66ccb2)
