@@ -31,6 +31,6 @@
      <img src="https://camo.githubusercontent.com/d7ba68805acd93fbf2619de8fa0420e7dcfda1b721b2f84c917bf89caa1f964c/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e65746c6966792f303043374237" height="40" />
 </div>
 
-![Fletcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
+![Fletcher's GitHub Stats](https://github-readme-stats.vercel.app/api?FletcherJMoore=curiousgrids&theme=radical)
      
 
