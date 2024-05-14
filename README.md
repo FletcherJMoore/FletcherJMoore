@@ -5,6 +5,8 @@
 <h4>🏢 Currently working in a managment role while I am attending NSS</h4> 
 <h4>🔍 In my free time you can find me with my family, playing baseball, or even playing video games with my friends!</h4> 
 
+
+
 <h3>⚒️Language and Tools⚒️</h3>
 
 <div align="left"> 
@@ -31,7 +33,9 @@
      <img src="https://camo.githubusercontent.com/d7ba68805acd93fbf2619de8fa0420e7dcfda1b721b2f84c917bf89caa1f964c/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e65746c6966792f303043374237" height="40" />
 </div>
 
-<h3>Stats</h3>
+
+
+<h3>📈Stats📈</h3>
 
 ![Fletcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLetcherJMoore&theme=apprentice)
 
