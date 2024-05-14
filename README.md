@@ -33,8 +33,8 @@
 
 <h3>Stats</h3>
 
-![Fletcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLetcherJMoore&theme=radical)
+![Fletcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLetcherJMoore&theme=apprentice)
 
-![Fletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=FletcherJMoore&show_icons=true)
+
      
 
