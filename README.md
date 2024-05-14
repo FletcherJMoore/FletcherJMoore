@@ -5,7 +5,7 @@
 <h4>🏢 Currently working in a managment role while I am attending NSS</h4> 
 <h4>🔍 In my free time you can find me with my family, playing baseball, or even playing video games with my friends!</h4> 
 
-<h2>Current Code Stack Includes</h2>
+<h2Language and Tools</h2>
 
 <div align="left"> 
      <img src="https://camo.githubusercontent.com/83332cff730c24fb7829ea5ff814d2629572848a0881cf9a60222ef296263782/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" height="40" />
@@ -29,6 +29,8 @@
      <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" />
      <img width="14" />
      <img src="https://camo.githubusercontent.com/d7ba68805acd93fbf2619de8fa0420e7dcfda1b721b2f84c917bf89caa1f964c/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e65746c6966792f303043374237" height="40" />
-     
-
 </div>
+
+
+     ![GitHub Stats](https://github-readme-stats.vercel.api?username=curiousgrids&theme=radical)
+
