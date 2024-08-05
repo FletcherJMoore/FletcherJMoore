@@ -1,8 +1,8 @@
 <h2>About Me</h2>
 
-<h4>Hello, my name is Fletcher! I am a Nashville local and currently work as the assistant manager of The Escape Game at Opry Mills. I always had a curiosity for tech when it came to video games or building my first computer. So when I found out I could make a career in tech I jumped at the opportunity! I took the NSS part time night course and it has been the most challenging task I have taken on but the skills and the knowledge I have learned thorough it have taken my career to new hights!</h4>
+<h4>Hello, my name is Fletcher! I am a Nashville local and currently work as IT helpdesk for The Escape Game. I always had a curiosity for tech when it came to video games or building my first computer. So when I found out I could make a career in tech I jumped at the opportunity! I took the NSS part time night course and it has been the most challenging task I have taken on but the skills and the knowledge I have learned thorough it have taken my career to new hights!</h4>
 
-<h4>🏢 Currently working in a managment role while I am attending NSS</h4> 
+<h4>🏢 Currently working in IT for The Escape Game</h4> 
 <h4>🔍 In my free time you can find me with my family, playing baseball, or even playing video games with my friends!</h4> 
 
 
