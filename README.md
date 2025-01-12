@@ -20,14 +20,14 @@
      <img width="14" />
       <img name="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" height="40" />
      <img width="14" />
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/768px-Microsoft_.NET_logo.svg.png" height="40" />
+     <img width="14">
      <img name="git" src="https://banner2.cleanpng.com/20181228/lb/kisspng-github-computer-icons-version-control-source-code-revert-the-revert-and-avoid-conflicts-theodo-5c26e09ab6de71.015972601546051738749.jpg" height="40" />
      <img width="14" /> 
      <img name="gitbash" src="https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png" height="40" /> 
      <img width="14" />
      <img src="https://static-00.iconduck.com/assets.00/netlify-icon-512x512-ic9cqs34.png" height="40" />
      <img width="14" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/768px-Microsoft_.NET_logo.svg.png" height="40" />
-     <img width="14">
      <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" height="40" />
      <img width="14" />
 </div>
