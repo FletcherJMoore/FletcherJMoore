@@ -20,7 +20,7 @@
      <img width="14" /> 
      <img src="https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png" height="40" /> 
      <img width="14" />
-     <img src="https://camo.githubusercontent.com/eaa8cd7699a5a051355c1265a397303230be181869e4ccd74921858f5fa5e608/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669726562617365" height="40" />
+     <img src="https://static-00.iconduck.com/assets.00/netlify-icon-512x512-ic9cqs34.png" height="40" />
      <img width="14" />
      <img src="https://camo.githubusercontent.com/cac9cb122b22e852f5624d103e8656925976bf1a807a6bf4cd6751420731836f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e" height="40" />
      <img width="14">
