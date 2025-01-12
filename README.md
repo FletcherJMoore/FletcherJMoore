@@ -32,7 +32,7 @@
      <img width="14" />
      <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" height="40" />
      <img width="14" />
-     <img name ="postman" src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" height="40" />
+     <img name ="postman" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" height="40" />
      <img width="14" />
       <img name="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" />
      <img width="14" />
