@@ -16,7 +16,7 @@
      <img width="14" />
      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" />
      <img width="14" />
-     <img src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" height="40" />
+     <img src="https://banner2.cleanpng.com/20180425/bxe/ave8vhl4c.webp" height="40" />
      <img width="14" /> 
      <img src="https://camo.githubusercontent.com/c29bb71baeb986a6b13519d89dfbc0f93b3f252ce64deb423917c1ea258e9ff7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" height="40" /> 
      <img width="14" />
