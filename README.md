@@ -32,6 +32,10 @@
      <img width="14" />
      <img src="https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon-thumbnail.png" height="40" />
      <img width="14" />
+      <img name="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" />
+     <img width="14" />
+     <img name="visual_studio" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" height="40" />
+     <img width="14" />
 </div>
 </div>
 
