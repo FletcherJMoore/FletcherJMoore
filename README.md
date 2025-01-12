@@ -24,7 +24,7 @@
      <img width="14">
      <img name="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40" />
      <img width="14" /> 
-     <img name="gitbash" src="https://www.thetechedvocate.org/wp-content/uploads/2023/05/Gitbash.png" height="40" /> 
+     <img name="gitbash" src="https://i.ytimg.com/vi/rSGpbmmBugc/hqdefault.jpg" height="40" /> 
      <img width="14" />
      <img src="https://static-00.iconduck.com/assets.00/netlify-icon-512x512-ic9cqs34.png" height="40" />
      <img width="14" />
