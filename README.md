@@ -16,6 +16,10 @@
      <img width="14" />
      <img name="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" />
      <img width="14" />
+     <img name="react "src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40" />
+     <img width="14" />
+      <img name="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" height="40" />
+     <img width="14" />
      <img name="git" src="https://banner2.cleanpng.com/20181228/lb/kisspng-github-computer-icons-version-control-source-code-revert-the-revert-and-avoid-conflicts-theodo-5c26e09ab6de71.015972601546051738749.jpg" height="40" />
      <img width="14" /> 
      <img name="gitbash" src="https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png" height="40" /> 
@@ -25,11 +29,6 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/768px-Microsoft_.NET_logo.svg.png" height="40" />
      <img width="14">
      <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" height="40" />
-     <img width="14" />
-     <img name="react "src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40" />
-     <img width="14" />
-     <img src="https://camo.githubusercontent.com/d7ba68805acd93fbf2619de8fa0420e7dcfda1b721b2f84c917bf89caa1f964c/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e65746c6966792f303043374237" height="40" />
-      <img name="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" height="40" />
      <img width="14" />
 </div>
 
