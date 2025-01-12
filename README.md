@@ -22,7 +22,7 @@
      <img width="14" />
      <img src="https://static-00.iconduck.com/assets.00/netlify-icon-512x512-ic9cqs34.png" height="40" />
      <img width="14" />
-     <img src="https://camo.githubusercontent.com/cac9cb122b22e852f5624d103e8656925976bf1a807a6bf4cd6751420731836f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e" height="40" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/768px-Microsoft_.NET_logo.svg.png" height="40" />
      <img width="14">
      <img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="40" />
      <img width="14" />
