@@ -30,7 +30,7 @@
      <img width="14" />
      <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" />
      <img width="14" />
-     <img src="https://e7.pngegg.com/pngimages/358/849/png-clipart-postgresql-database-logo-database-symbol-blue-text-thumbnail.png" height="40" />
+     <img src="https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon-thumbnail.png" height="40" />
      <img width="14" />
 </div>
 </div>
