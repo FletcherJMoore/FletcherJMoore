@@ -24,7 +24,7 @@
      <img width="14" />
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/768px-Microsoft_.NET_logo.svg.png" height="40" />
      <img width="14">
-     <img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" height="40" />
+     <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" height="40" />
      <img width="14" />
      <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" />
      <img width="14" />
