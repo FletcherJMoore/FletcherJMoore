@@ -32,7 +32,7 @@
      <img width="14" />
      <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" height="40" />
      <img width="14" />
-     <img name ="postman" src="https://banner2.cleanpng.com/20190206/exx/kisspng-postdot-technologies-pvt-ltd-api-testing-represe-postman-vs-insomnia-all-things-selenium-and-qa-5c5ba4749aa0b6.7739459315495097486334.jpg" height="40" />
+     <img name ="postman" src="https://w7.pngwing.com/pngs/903/516/png-transparent-api-testing-application-programming-interface-software-testing-software-developer-authorization-miscellaneous-orange-logo-thumbnail.png" height="40" />
      <img width="14" />
       <img name="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" />
      <img width="14" />
