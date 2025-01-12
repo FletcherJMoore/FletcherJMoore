@@ -30,7 +30,7 @@
      <img width="14" />
      <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" />
      <img width="14" />
-     <img src="https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon-thumbnail.png" height="40" />
+     <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" height="40" />
      <img width="14" />
       <img name="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" />
      <img width="14" />
