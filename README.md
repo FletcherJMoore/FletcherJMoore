@@ -28,7 +28,7 @@
      <img width="14" />
      <img src="https://static-00.iconduck.com/assets.00/netlify-icon-512x512-ic9cqs34.png" height="40" />
      <img width="14" />
-     <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" height="40" />
+     <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" />
      <img width="14" />
 </div>
 
