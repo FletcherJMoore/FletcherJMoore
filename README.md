@@ -18,7 +18,7 @@
      <img width="14" />
      <img src="https://banner2.cleanpng.com/20181228/lb/kisspng-github-computer-icons-version-control-source-code-revert-the-revert-and-avoid-conflicts-theodo-5c26e09ab6de71.015972601546051738749.jpg" height="40" />
      <img width="14" /> 
-     <img src="https://camo.githubusercontent.com/c29bb71baeb986a6b13519d89dfbc0f93b3f252ce64deb423917c1ea258e9ff7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" height="40" /> 
+     <img src="https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png" height="40" /> 
      <img width="14" />
      <img src="https://camo.githubusercontent.com/eaa8cd7699a5a051355c1265a397303230be181869e4ccd74921858f5fa5e608/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669726562617365" height="40" />
      <img width="14" />
