@@ -1,52 +1,54 @@
-<h2>About Me</h2>
+### Hi there, I'm Fletcher 👋
 
-<h4>Hello, my name is Fletcher! I am a Nashville local and currently work as IT helpdesk for The Escape Game. I always had a curiosity for tech when it came to video games or building my first computer. So when I found out I could make a career in tech I jumped at the opportunity! I took the NSS part time night course and it has been the most challenging task I have taken on but the skills and the knowledge I have learned thorough it have taken my career to new hights!</h4>
+🔭 I’m currently working on
+- 🚀 DeckVault 2.0 – A complete revamp with enhanced UI/UX, faster performance, and new features (coming soon!)
+- 🛠️ Internal web tools at work – Automating workflows using Google Apps Script, REST APIs, and dynamic dashboards
+- 🌐 Frontend experiments – Building modular React components, trying out new frameworks, and refining design systems
 
-<h4>🏢 Currently working in IT for The Escape Game</h4> 
-<h4>🔍 In my free time you can find me with my family, playing baseball, or even playing video games with my friends!</h4> 
+🌱 I’m currently learning:  
+- Python & Typescript
+- Making better UI/UX Designs
 
+📫 How to reach me:  
+- 🐦 LinkedIn: [Fletcher Moore](https://www.linkedin.com/in/fletcher-moore/)  
+- 📫 Email: fletcherjmoore14@gmail.com
+---
 
+### 🧰 Tools & Tech
 
-<h3>⚒️Language and Tools⚒️</h3>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-<div align="left"> 
-     <img name="javascript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuYdLEzBvwemix8pwsncUkLLOQqnByncadg&s" height="40" />
-     <img width="14" />
-     <img name="html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" />
-     <img width="14" />
-     <img name="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" />
-     <img width="14" />
-     <img name="react "src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40" />
-     <img width="14" />
-      <img name="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" height="40" />
-     <img width="14" />
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/768px-Microsoft_.NET_logo.svg.png" height="40" />
-     <img width="14">
-     <img name="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40" />
-     <img width="14" /> 
-     <img name="gitbash" src="https://thumbs.linuxhelp.com/b475f409218770b70a31b01941aa4f4d.png" height="40" /> 
-     <img width="14" />
-     <img src="https://static-00.iconduck.com/assets.00/netlify-icon-512x512-ic9cqs34.png" height="40" />
-     <img width="14" />
-     <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" />
-     <img width="14" />
-     <img src="https://static-00.iconduck.com/assets.00/pgadmin-icon-2048x2048-rxk8ydpt.png" height="40" />
-     <img width="14" />
-     <img name ="postman" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp&w=256" height="40" />
-     <img width="14" />
-      <img name="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" />
-     <img width="14" />
-     <img name="visual_studio" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" height="40" />
-     <img width="14" />
-</div>
-</div>
+---
 
+### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fletcherjmoore&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fletcherjmoore&layout=compact&theme=radical)
 
-<h3>📈Stats📈</h3>
+---
 
-![Fletcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLetcherJMoore&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FletcherJMoore&layout=donut-vertical&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=fletcherjmoore&theme=dracula&margin-w=15)
+
+---
+
+### ⏳ Contribution Streak
+
 
 
      
