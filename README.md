@@ -33,6 +33,9 @@ In my current role, I give Tier 1/2 IT Helpdesk support ranging from Apple/Windo
     </colgroup>
     <tr>
       <td align="center">
+        <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/48b58712-7f9e-4342-bd02-6b62e55bf00a" />
+      </td>
+      <td align="center">
         <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/02dc5501-8f98-4449-9c9d-98904191892d" />
       </td>
       <td align="center">
@@ -40,6 +43,9 @@ In my current role, I give Tier 1/2 IT Helpdesk support ranging from Apple/Windo
       </td>
     </tr>
     <tr>
+      <td align="center" valign="top">
+        🗓️ <em>Graduated (January 2025)</em> <br/>
+      </td>
       <td align="center" valign="top">
         🗓️ <em>In Progress (Expected Sept 2026)</em> <br/>
       </td>
