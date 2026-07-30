@@ -15,10 +15,9 @@
 
 ## 🚀 About Me
 
-As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville Software School, I blend hands-on experience managing multi-site network infrastructure with modern full-stack web development. I thrive on automating processes and developing internal tools to make teams more efficient.
-
+In my current role, I give Tier 1/2 IT Helpdesk support ranging from Apple/Windows device issues with End Users, or maintaining our Unifi infrastructure. I try to blend my growing IT experience with coding knowledge I gained from my Web Development bootcamp with Nashville Software School. 
 - 💼 **Current Focus:** Delivering Tier 1/2 technical support, managing UniFi network infrastructure, and overseeing MDM/RMM environments.
-- 💻 **Development:** Building full-stack internal tools (using Python, JavaScript, Node.js, Google Apps Script) to automate hardware audits and employee onboarding workflows.
+- 💻 **Development:** Building full-stack internal tools (using Python, JavaScript, Node.js, Google Apps Script) to automate as many workflows as we can. For now we're mostly dog audits and light integrations for meetings. 
 - 🎓 **Education:** Full Stack Web Development Bootcamp Graduate (Nashville Software School).
 - 🤝 **My Values:** I am eager to learn and grow in environments that share my core values of **integrity and teamwork**.
 
