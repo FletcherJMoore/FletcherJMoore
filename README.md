@@ -38,19 +38,17 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
     </colgroup>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CompTIA_logo.svg/2560px-CompTIA_logo.svg.png" alt="CompTIA Network+" style="width:120px; max-width:100%; height:auto; padding: 10px;" />
+        <img src="https://img.shields.io/badge/CompTIA-Network+-FF0000?style=for-the-badge" alt="CompTIA Network+" style="padding: 10px;" />
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CompTIA_logo.svg/2560px-CompTIA_logo.svg.png" alt="CompTIA Security+" style="width:120px; max-width:100%; height:auto; padding: 10px;" />
+        <img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge" alt="CompTIA Security+" style="padding: 10px;" />
       </td>
     </tr>
     <tr>
       <td align="center" valign="top">
-        <strong>CompTIA Network+</strong><br/>
         🗓️ <em>In Progress (Expected Sept 2026)</em> <br/>
       </td>
       <td align="center" valign="top">
-        <strong>CompTIA Security+</strong><br/>
         🗓️ <em>Planned (Expected Late 2026)</em> <br/>
       </td>
     </tr>
@@ -178,7 +176,7 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
 
 <div align="center">
   <a href="https://fletcherjmoore-portfolio-production.up.railway.app/">
-    <img src="Screenshot 2026-07-30 at 1.05.39 PM.jpg" alt="Fletcher Moore Portfolio Preview" width="800" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+    <img src="portfolio-preview.jpg" alt="Fletcher Moore Portfolio Preview" width="800" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
   </a>
   <br/>
   <br/>
