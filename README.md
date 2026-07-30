@@ -1,51 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<h1 align="center">Hello, I'm Fletcher Moore</h1>
 
-<div align="center">
-  <a href="YOUR_PORTFOLIO_URL_HERE">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Fletcher%20Moore&description=IT%20Systems%20Coordinator%20and%20Full-Stack%20Developer%20specializing%20in%20multi-site%20network%20infrastructure,%20MDM,%20and%20building%20internal%20tools.%20Passionate%20about%20automating%20operational%20workflows%20and%20bridging%20the%20gap%20between%20IT%20operations%20and%20custom%20software.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2FYOUR_GITHUB_ID&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=fletcher-moore&github=fletcherjmoore" alt="Fletcher Moore's Card" />
-  </a>
-</div>
-
-<h1 align="center">Hello &nbsp;<a href="fletcherjmoore-portfolio-production.up.railway.app"><img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48"></a> , I'm Fletcher Moore</h1>
+<p align="center"><strong>IT Systems Coordinator | Full Stack Developer | Automation Enthusiast</strong></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=IT+Systems+Coordinator;Full+Stack+Developer;Automation+Enthusiast;Network+Infrastructure" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Making work easier through automation & web development
+  Making work easier through automation & web development.
 </p>
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
 
 | Portfolio | LinkedIn | Email | GitHub |
 | --- | --- | --- | --- |
 | [![Portfolio](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Fletcher+Moore&size=square)](YOUR_PORTFOLIO_URL_HERE) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffletcher-moore%2F&subtitle=@fletcher-moore&size=square)](https://www.linkedin.com/in/fletcher-moore/) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Contact+Me&size=square)](mailto:fletcherjmoore14@gmail.com) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Ffletcherjmoore&subtitle=%2Ffletcherjmoore&size=square)](https://github.com/fletcherjmoore) |
 
+</div>
+
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fletcherjmoore&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-<h2 align="center">🚀 About Me</h2>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 🚀 About Me
 
 As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville Software School, I blend hands-on experience managing multi-site network infrastructure with modern full-stack web development. I thrive on automating processes and developing internal tools to make teams more efficient.
 
-- 💼 **Current Role:** Delivering Tier 1/2 technical support, managing UniFi network infrastructure, and overseeing MDM/RMM environments for seamless hardware setup and compliance.
-- 💻 **Development Focus:** Building full-stack internal tools (using Python, JavaScript, Node.js, Google Apps Script) for device audits and employee onboarding/offboarding workflows.
+- 💼 **Current Focus:** Delivering Tier 1/2 technical support, managing UniFi network infrastructure, and overseeing MDM/RMM environments.
+- 💻 **Development:** Building full-stack internal tools (using Python, JavaScript, Node.js, Google Apps Script) to automate hardware audits and employee onboarding workflows.
 - 🎓 **Education:** Full Stack Web Development Bootcamp Graduate (Nashville Software School).
 - 🤝 **My Values:** I am eager to learn and grow in environments that share my core values of **integrity and teamwork**.
 
-<br clear="right"/>
 <br>
 
-<!-- Certifications Section -->
-<h2 align="center">🎓 Certifications & Roadmap</h2>
+## 🎓 Certifications & Roadmap
 
 <div align="center">
   <table style="width:100%; table-layout:fixed; max-width: 600px;">
@@ -54,7 +37,6 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
       <col style="width:50%">
     </colgroup>
     <tr>
-      <!-- Icon Row -->
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CompTIA_logo.svg/2560px-CompTIA_logo.svg.png" alt="CompTIA Network+" style="width:120px; max-width:100%; height:auto; padding: 10px;" />
       </td>
@@ -63,7 +45,6 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
       </td>
     </tr>
     <tr>
-      <!-- Text Row -->
       <td align="center" valign="top">
         <strong>CompTIA Network+</strong><br/>
         🗓️ <em>In Progress (Expected Sept 2026)</em> <br/>
@@ -78,7 +59,7 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
 
 <br>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center">Tech Stack</h1>
 
 <h3 align="center">Software Development</h3>
 
@@ -191,115 +172,33 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
 </table>
 </div>
 
-<br>
+---
 
-# 🛠️ Featured Experience & Projects
-
-<br>
-
-## 📊 IT Operations Automation & Internal Tools
-**The Escape Game** | *IT Systems Coordinator*
-
-<table>
-  <tr>
-    <td colspan="2">
-      <p>In my current role, I blend IT coordination with custom software development to eliminate repetitive tasks and streamline company-wide operations across retail and corporate environments.</p>
-    </td>
-  </tr>
-</table>
-
-<details open>
-  <summary><strong>Key Contributions & Tools Built</strong></summary>
-  <table>
-    <tr>
-      <th>Operational Automations</th>
-      <th>Infrastructure Management</th>
-    </tr>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li><strong>Automated Device Audits:</strong> Developed internal full-stack tools using <strong>Python, JavaScript, and Node.js</strong> to audit MDM/RMM hardware compliance automatically.</li>
-          <li><strong>Onboarding Workflows:</strong> Created Google Apps Script automations to handle user provisioning and offboarding quickly and securely.</li>
-          <li><strong>IT Documentation:</strong> Architected a comprehensive IT knowledge base to reduce repeat Zendesk/ConnectWise ticket volumes and improve resolution efficiency.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li><strong>Network Management:</strong> Configure and maintain UniFi firewalls, access points, and switches across multiple retail locations.</li>
-          <li><strong>Cloud Administration:</strong> Manage users, security, and policies within Google Workspace, Microsoft Entra, Azure, and Microsoft 365.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
-## 🚀 Full-Stack Web Development 
-**Nashville Software School** | *Software Developer Apprentice*
-
-<table>
-  <tr>
-    <td colspan="2">
-      <p>During a part-time intensive bootcamp, I built robust full-stack applications from the ground up, focusing heavily on modern frameworks and clean application architecture (whiteboarding, dependency mapping, and ERDs).</p>
-    </td>
-  </tr>
-</table>
-
-<details open>
-  <summary><strong>Project Highlights</strong></summary>
-  <table>
-    <tr>
-      <th>Development Highlights</th>
-      <th>Workflow & Tools</th>
-    </tr>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li><strong>React & Next.js Frontends:</strong> Built dynamic and responsive UIs utilizing modern JavaScript and CSS/Bootstrap.</li>
-          <li><strong>C# & .NET Backends:</strong> Developed scalable server-side applications and connected them to SQL databases.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li><strong>Version Control:</strong> Managed complex project workflows using Git branching strategies.</li>
-          <li><strong>Project Management:</strong> Utilized GitHub Projects and Issues for agile development tracking.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
-<h3 align="center">GitHub Stats</h3>
+## 🌐 My Portfolio & Projects
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fletcherjmoore&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fletcherjmoore&custom_title=Fletcher's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0D1117&title_color=58A6FF&area=true" alt="GitHub Activity Graph" />
-<br>
+  <a href="https://fletcherjmoore-portfolio-production.up.railway.app/">
+    <img src="Screenshot 2026-07-30 at 1.05.39 PM.jpg" alt="Fletcher Moore Portfolio Preview" width="800" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  </a>
+  <br/>
+  <br/>
+  <strong>👉 <a href="YOUR_PORTFOLIO_URL_HERE">Click here to visit my full portfolio and explore my latest software projects!</a> 👈</strong>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fletcherjmoore&hide=html&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fletcherjmoore&hide_border=true&border_radius=15&show_icons=true&theme=tokyonight" alt="GitHub stats">
-    </td>
-  </tr>
-</table>
+---
+
+## 📊 GitHub Contributions
+
+<div align="center">
+  <a href="https://github.com/fletcherjmoore">
+    <img src="https://ghchart.rshah.org/58A6FF/fletcherjmoore" alt="Fletcher's GitHub Contribution Chart" />
+  </a>
 </div>
 
 <br>
-
-<h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center">
   <h3>
-    ⭐️ From <a href="https://github.com/fletcherjmoore">Fletcher Moore</a> | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+    ⭐️ From <a href="https://github.com/fletcherjmoore">Fletcher Moore</a> | Let's innovate together!
   </h3>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
