@@ -1,10 +1,6 @@
-<h1 align="center">Hello, I'm Fletcher Moore</h1>
-
-<p align="center"><strong>IT Systems Coordinator | Full Stack Developer | Automation Enthusiast</strong></p>
-
-<p align="center">
-  Making work easier through automation & web development.
-</p>
+<div align="center">
+  <img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/bf2523ee-5ba4-48d2-a4b3-dcd4d9648056" />
+</div>
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
@@ -38,10 +34,10 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
     </colgroup>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA-Network+-FF0000?style=for-the-badge" alt="CompTIA Network+" style="padding: 10px;" />
+        <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/02dc5501-8f98-4449-9c9d-98904191892d" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge" alt="CompTIA Security+" style="padding: 10px;" />
+        <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/6e90f52b-91f4-45bb-8d47-9697fcf04670" />
       </td>
     </tr>
     <tr>
@@ -168,19 +164,6 @@ As an **IT Systems Coordinator** at The Escape Game and a graduate of Nashville 
     </tr>
   </tbody>
 </table>
-</div>
-
----
-
-## 🌐 My Portfolio & Projects
-
-<div align="center">
-  <a href="https://fletcherjmoore-portfolio-production.up.railway.app/">
-    <img src="portfolio-preview.jpg" alt="Fletcher Moore Portfolio Preview" width="800" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
-  </a>
-  <br/>
-  <br/>
-  <strong>👉 <a href="YOUR_PORTFOLIO_URL_HERE">Click here to visit my full portfolio and explore my latest software projects!</a> 👈</strong>
 </div>
 
 ---
