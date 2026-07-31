@@ -23,7 +23,7 @@ In my current role, I give Tier 1/2 IT Helpdesk support ranging from Apple/Windo
 
 <br>
 
-## 🎓 Certifications & Roadmap
+## 🎓 Certifications & Education
 
 <div align="center">
   <table style="width:100%; table-layout:fixed; max-width: 600px;">
@@ -44,7 +44,7 @@ In my current role, I give Tier 1/2 IT Helpdesk support ranging from Apple/Windo
     </tr>
     <tr>
       <td align="center" valign="top">
-        🗓️ <em>Graduated (January 2025)</em> <br/>
+        🗓️ <em>Full Stack Web Developer Bootcamp (Jan 2024 - Jan 2025)</em> <br/>
       </td>
       <td align="center" valign="top">
         🗓️ <em>In Progress (Expected Sept 2026)</em> <br/>
